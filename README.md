@@ -110,3 +110,8 @@ As bibliotecas utilizadas para configurar o sistema de internet e o protocolo MQ
 Em seguida, é necessário ligar a máquina virtual e seguir os passos específicos para configurar o Fiware, conforme mencionado anteriormente, e testar o programa conforme descrito.
 
 O [código](https://github.com/ThiagoJO0705/GS-Hapvida-Notredame-Edge/blob/main/codigoHealthTrackr.ino) completo do ESP32 está disponível para visualização, oferecendo uma visão detalhada do projeto. Este método, ao utilizar principalmente a linguagem C++ para a programação do microcontrolador, proporciona uma implementação eficiente e abrangente para o monitoramento de saúde proposto.
+
+# Integrantes
+Nenhum participante é de outra turma. Todos são da 1ESPF
+- Nikolas Rodrigues Moura dos Santos - RM551566 
+- Thiago Jardim de Oliveira - RM551624
