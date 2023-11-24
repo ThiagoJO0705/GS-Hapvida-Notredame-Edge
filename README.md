@@ -1,4 +1,6 @@
 # HealthTrackr
+![image](https://github.com/ThiagoJO0705/GS-Hapvida-Notredame-Edge/assets/126472997/999b4c38-5b87-4c7b-ae85-787a0bc129da)
+  
 Proposta de solução para a Global Solution solicitada pela Hapvida NotreDame Intermédica
 
 ## Problema de Saúde Abordado
@@ -29,7 +31,7 @@ Para implementar a solução você precisará dos seguintes componentes:
 
 Para realizar a montagem dos compenentes, siga o exemplo disponibilizado [aqui](https://github.com/ThiagoJO0705/GS-Hapvida-Notredame-Edge/blob/main/MontagemHealthTrackr.png).
 
-Após a montagem dos componentes é necessário utilizar a IDE Arduino para gravar o [código](urlficiticia) no microcontrolador ESP32. 
+Após a montagem dos componentes é necessário utilizar a IDE Arduino para gravar o [código](https://github.com/ThiagoJO0705/GS-Hapvida-Notredame-Edge/blob/main/codigoHealthTrackr.ino) no microcontrolador ESP32. 
 
 A próxima etapa envolve a transmissão de dados pelo microcontrolador utilizando o protocolo MQTT, integrando-se à plataforma Fiware.
 
@@ -92,7 +94,7 @@ Para melhor entendimento sobre o Fiware e seus componentes complementares [cliqu
   
 ![image](https://github.com/ThiagoJO0705/GS-Hapvida-Notredame-Edge/assets/126472997/91b86c68-bdba-47c1-86f3-66e17c584f9c)
 
-Caso queira acessar o arquivo da arquitetura [clique aqui]().
+Caso queira acessar o arquivo da arquitetura [clique aqui](https://github.com/ThiagoJO0705/GS-Hapvida-Notredame-Edge/blob/main/HealthTrackr.drawio).
 
 # Wokwi
 Foi feito uma simulação no Wokwi, que é uma plataforma online que oferece uma simulação interativa de dispositivos eletrônicos baseados em microcontroladores, como Arduino e ESP32. Essa plataforma permite que os usuários projetem, testem e compartilhem circuitos eletrônicos de forma virtual.
@@ -107,4 +109,4 @@ As bibliotecas utilizadas para configurar o sistema de internet e o protocolo MQ
 
 Em seguida, é necessário ligar a máquina virtual e seguir os passos específicos para configurar o Fiware, conforme mencionado anteriormente, e testar o programa conforme descrito.
 
-O [código]() completo do ESP32 está disponível para visualização, oferecendo uma visão detalhada do projeto. Este método, ao utilizar principalmente a linguagem C++ para a programação do microcontrolador, proporciona uma implementação eficiente e abrangente para o monitoramento de saúde proposto.
+O [código](https://github.com/ThiagoJO0705/GS-Hapvida-Notredame-Edge/blob/main/codigoHealthTrackr.ino) completo do ESP32 está disponível para visualização, oferecendo uma visão detalhada do projeto. Este método, ao utilizar principalmente a linguagem C++ para a programação do microcontrolador, proporciona uma implementação eficiente e abrangente para o monitoramento de saúde proposto.
